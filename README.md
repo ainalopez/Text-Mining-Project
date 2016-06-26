@@ -2,8 +2,7 @@
 
 # Notes
 Please, notice than runing this notebook can take up to 2 hours.  
-\
-\
+
 
 The output of the notebook is:  
 
